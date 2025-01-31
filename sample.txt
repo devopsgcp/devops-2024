@@ -1,2 +1,0 @@
-this is sample code, hey Revert learnig revert , diff command
-
